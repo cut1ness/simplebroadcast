@@ -1,4 +1,3 @@
-# SimpleBroadcast - Counter-Strike 2 Plugin!
 # EN:
 A simple plugin for sending prepared messages to the chat for all players of your server!
 Very easy to set up!
